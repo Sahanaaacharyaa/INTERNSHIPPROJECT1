@@ -567,7 +567,7 @@ color: white;
         width: 50%;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-evenly;
         flex-wrap: wrap;
        
     }
@@ -595,25 +595,16 @@ color: white;
         border: 1px solid black;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-evenly;
         flex-wrap: wrap;
-        font-size: 5px;
+        font-size: 3px;
         list-style-type:none;
         
         
         
     
     }
-    .listcontent li{
-        display: flex;
-        justify-content:flex-start;
-        align-items: center;
-        margin:2px;
-        overflow:hidden;
-        text-overflow: ellipsis;
-        white-space:nowrap;
-        
-    }
+   
 
     
     .youbutton{
