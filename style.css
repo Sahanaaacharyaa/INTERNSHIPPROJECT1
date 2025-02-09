@@ -595,7 +595,7 @@ color: white;
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 5px;
+        font-size: 2px;
     
     }
     .youbutton{
@@ -837,7 +837,7 @@ color: white;
     
     }
     .para3{
-        margin-right:20%;
+        margin-right:40%;
     }
     .para1{
         margin-left:20%;
