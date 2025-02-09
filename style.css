@@ -280,7 +280,7 @@ color: white;
 .box:hover{
     border-bottom: 5px solid red;
 }
-@media only screen and (min-width:280px) and (max-width:700px){
+@media only screen and (min-width:100px) and (max-width:700px){
     .content{
         display: flex;
         align-items: center;
