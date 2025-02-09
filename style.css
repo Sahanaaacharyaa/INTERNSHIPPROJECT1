@@ -554,7 +554,7 @@ color: white;
 .iframee{
     border-radius: 10%;
 }
-@media only screen and (min-width:100px) and (max-width:1000px){
+@media only screen and (min-width:40px) and (max-width:1000px){
     .advancetrain{
         height:200px;
         width: 100%;
