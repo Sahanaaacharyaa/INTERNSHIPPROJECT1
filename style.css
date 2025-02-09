@@ -554,7 +554,7 @@ color: white;
 .iframee{
     border-radius: 10%;
 }
-@media only screen and (min-width:40px) and (max-width:1000px){
+@media only screen and (min-width:40px) and (max-width:1200px){
     .advancetrain{
         height:200px;
         width: 100%;
@@ -601,15 +601,20 @@ color: white;
         list-style-type:none;
         
         
+        
     
     }
     .listcontent li{
         display: flex;
         justify-content:flex-start;
         align-items: center;
-        margin: 2px;
+        margin:2px;
+        overflow:hidden;
+        text-overflow: ellipsis;
+        white-space:nowrap;
         
     }
+
     
     .youbutton{
         background-color: brown;
