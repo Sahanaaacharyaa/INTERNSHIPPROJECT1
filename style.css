@@ -293,8 +293,8 @@ color: white;
      }
      .para{
          margin: 3%;
-         font-size: 9px;
-         font-weight:600;
+         font-size: 12px;
+         font-weight:500;
      }
      .para h4{
          color: red;
@@ -542,7 +542,7 @@ color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 18px;
+    font-size:18px;
 
 }
 .youbutton{
@@ -554,7 +554,7 @@ color: white;
 .iframee{
     border-radius: 10%;
 }
-@media only screen and (min-width:280px) and (max-width:1000px){
+@media only screen and (min-width:100px) and (max-width:1000px){
     .advancetrain{
         height:200px;
         width: 100%;
